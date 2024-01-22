@@ -44,8 +44,8 @@ Usage
 Start the backend server:
 
 Copy code
-cd backend
-npm start
+open folder denta_backend and follow README.md
+
 
 Start the frontend application:
 Copy code
